@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://people.virginia.edu/~rhp8rg/about/</loc>
+    <lastmod>2017-08-09T16:58:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.virginia.edu/~rhp8rg/categories/</loc>
+    <lastmod>2017-08-09T16:58:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.virginia.edu/~rhp8rg/categories/misc/</loc>
+    <lastmod>2017-08-09T16:58:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.virginia.edu/~rhp8rg/</loc>
+    <lastmod>2017-08-09T16:58:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.virginia.edu/~rhp8rg/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.virginia.edu/~rhp8rg/tags/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.virginia.edu/~rhp8rg/categories/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.virginia.edu/~rhp8rg/tags/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url>
+  
+</urlset>
