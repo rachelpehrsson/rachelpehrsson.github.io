@@ -1,31 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Rachel Pehrsson</title>
-    <link>https://rachelpehrsson.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Rachel Pehrsson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 09 Aug 2017 16:58:58 -0500</lastBuildDate>
     
-	<atom:link href="https://rachelpehrsson.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>misc</title>
-      <link>https://rachelpehrsson.github.io/categories/misc/</link>
+      <title>Misc</title>
+      <link>/categories/misc/</link>
       <pubDate>Wed, 09 Aug 2017 16:58:58 -0500</pubDate>
       
-      <guid>https://rachelpehrsson.github.io/categories/misc/</guid>
+      <guid>/categories/misc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>projects</title>
-      <link>https://rachelpehrsson.github.io/categories/projects/</link>
+      <title>Projects</title>
+      <link>/categories/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://rachelpehrsson.github.io/categories/projects/</guid>
+      <guid>/categories/projects/</guid>
       <description></description>
     </item>
     
