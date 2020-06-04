@@ -3,51 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/resume/</loc>
-    <lastmod>2017-09-05T03:15:46-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
+    <loc>https://rachelpehrsson.github.io/about/</loc>
     <lastmod>2017-08-09T16:58:58-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/projects/</loc>
+    <loc>https://rachelpehrsson.github.io/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://rachelpehrsson.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/misc/</loc>
+    <loc>https://rachelpehrsson.github.io/categories/misc/</loc>
     <lastmod>2017-08-09T16:58:58-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/projects/</loc>
+    <loc>https://rachelpehrsson.github.io/tags/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/projects/</loc>
+    <loc>https://rachelpehrsson.github.io/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2017-09-05T03:15:46-04:00</lastmod>
+    <loc>https://rachelpehrsson.github.io/</loc>
+    <lastmod>2017-08-09T16:58:58-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://rachelpehrsson.github.io/tags/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
