@@ -1,9 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rachelpehrsson.github.io/projects/dynamicquiz/</loc>
+    <lastmod>2022-01-17T23:36:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rachelpehrsson.github.io/projects/</loc>
+    <lastmod>2022-01-17T23:36:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rachelpehrsson.github.io/</loc>
+    <lastmod>2022-01-17T23:36:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rachelpehrsson.github.io/projects/foodforthefourth/</loc>
+    <lastmod>2022-01-15T21:56:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rachelpehrsson.github.io/projects/nutritiontutor/</loc>
+    <lastmod>2022-01-12T22:28:30-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rachelpehrsson.github.io/about/</loc>
+    <lastmod>2017-08-09T16:58:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rachelpehrsson.github.io/categories/</loc>
+    <lastmod>2017-08-09T16:58:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rachelpehrsson.github.io/categories/misc/</loc>
     <lastmod>2017-08-09T16:58:58-05:00</lastmod>
   </url>
   
@@ -13,38 +48,18 @@
   </url>
   
   <url>
-    <loc>https://rachelpehrsson.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rachelpehrsson.github.io/categories/misc/</loc>
-    <lastmod>2017-08-09T16:58:58-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://rachelpehrsson.github.io/tags/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rachelpehrsson.github.io/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rachelpehrsson.github.io/</loc>
-    <lastmod>2017-08-09T16:58:58-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rachelpehrsson.github.io/tags/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

@@ -1,0 +1,38 @@
+.labeled-image{
+	display:inline-block;
+	padding: 10px;
+	text-align:center;
+}
+
+.labeled-image img{
+	width:100%;
+}
+
+.labeled-image .images{
+	display: flex;
+}
+
+.labeled-image .images .image{
+	flex-grow: 1;
+	width: 90%;
+    margin: 3px;	
+}
+
+.labeled-image .label{
+	color: #267723;
+    font-weight: lighter;
+    font-size: 18px;
+    display:block;
+}
+
+.disqus{
+	display: none;
+}
+
+.related-posts{
+	display: none;
+}
+
+.blog-title{
+	display:none;
+}

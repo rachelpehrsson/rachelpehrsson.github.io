@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rachel Pehrsson</title>
-    <link>https://rachelpehrsson.github.io/</link>
-    <description>Recent content on Rachel Pehrsson</description>
+    <title>Projects on Rachel Pehrsson</title>
+    <link>https://rachelpehrsson.github.io/projects/</link>
+    <description>Recent content in Projects on Rachel Pehrsson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 17 Jan 2022 23:36:08 -0500</lastBuildDate><atom:link href="https://rachelpehrsson.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jan 2022 23:36:08 -0500</lastBuildDate><atom:link href="https://rachelpehrsson.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dynamic Quiz</title>
       <link>https://rachelpehrsson.github.io/projects/dynamicquiz/</link>
@@ -33,24 +33,6 @@
       <guid>https://rachelpehrsson.github.io/projects/nutritiontutor/</guid>
       <description>Decoding Nutrition Labels is a rule-based cognitive tutor for teaching 6th graders to read nutrition labels on food and glean information about nutrient content. It was built using CTAT, a cognitive tutor authoring tool developed at Carnegie Mellon written in Nools.js.
 We based our design on a worksheet that helped students decode nutrition labels and then confirmed the process with a nutrition expert. We used the worksheet in a Cognitive Task Analysis (CTA) using 6th grade students and others who had never read an American nutrition label (international students) in order to determine their pain points and preferences.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://rachelpehrsson.github.io/about/</link>
-      <pubDate>Wed, 09 Aug 2017 16:58:58 -0500</pubDate>
-      
-      <guid>https://rachelpehrsson.github.io/about/</guid>
-      <description>My name is Rachel Pehrsson. I&amp;rsquo;m a front-end programmer currently pursuing my Masters of Educational Technology and Applied Learning Science (METALS) at Carnegie Mellon University in Pittsburgh, PA. I previously worked at Sapio Sciences LLC in York, PA. In 2018, I graduated from the University of Virginia with degrees in Computer Science and Studio Art. My passions include web development, Edtech, illustration, and making your company&amp;rsquo;s dynamically generated PDFs look very swanky.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://rachelpehrsson.github.io/projects/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>https://rachelpehrsson.github.io/projects/</guid>
-      <description></description>
     </item>
     
   </channel>

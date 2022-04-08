@@ -7,7 +7,7 @@
     <meta name="author" content="Rachel Pehrsson" />
     <meta name="description" content="Rachel Pehrsson is a front-end programmer with a passion for Edtech.">
     <link rel="shortcut icon" type="image/x-icon" href="https://rachelpehrsson.github.io/img/favicon.ico">
-    <title>About Me</title>
+    <title>Decoding Nutrition Labels</title>
     <meta name="generator" content="Hugo 0.80.0" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="https://rachelpehrsson.github.io/css/main.css" />
@@ -59,12 +59,12 @@
       <div class="container">
         <div class="blog-post">
           <h3>
-            <strong><a href="https://rachelpehrsson.github.io/about/">About Me</a></strong>
+            <strong><a href="https://rachelpehrsson.github.io/projects/nutritiontutor/">Decoding Nutrition Labels</a></strong>
           </h3>
         </div>
         <div class="blog-title">
           <h4>
-          August 9, 2017
+          January 12, 2022
             &nbsp;&nbsp;
             
           </h4>
@@ -72,33 +72,27 @@
         <div class="panel panel-default">
           <div class="panel-body">
             <div class="blogpost">
-              <p>My name is Rachel Pehrsson. I&rsquo;m a front-end programmer currently pursuing my <a href="https://metals.hcii.cmu.edu/">Masters of Educational Technology and Applied Learning Science (METALS)</a> at Carnegie Mellon University in Pittsburgh, PA.  I previously worked at <a href="https://sapiosciences.com">Sapio Sciences LLC</a> in York, PA. In 2018, I graduated from the University of Virginia with degrees in Computer Science and Studio Art. My passions include web development, Edtech, illustration, and making your company&rsquo;s dynamically generated PDFs look very swanky.</p>
-<p>I founded and run a small charity called <a href="https://foodforthefourth.org">Food for the Fourth</a> aimed at increasing food bank donations in summer months.</p>
-<p>In my free time, I enjoy painting, writing, point-and-click adventure games, swing dancing, listening to music, reading comic books, and playing with my cat, Toby. He&rsquo;s the charmer of the household.</p>
-<h3 id="areas-of-experience-in-coding">Areas of experience in coding:</h3>
-<ul>
-<li>Java</li>
-<li>GWT</li>
-<li>HTML</li>
-<li>CSS</li>
-<li>JavaScript</li>
-<li>Nools</li>
-<li>AngularJS</li>
-<li>PHP</li>
-<li>MySQL</li>
-</ul>
-<h3 id="areas-of-experience-in-design">Areas of experience in design</h3>
-<ul>
-<li>Adobe products: Illustrator, Photoshop, Premiere</li>
-<li>Traditional painting and sketching</li>
-</ul>
-<h3 id="other">Other</h3>
-<ul>
-<li>Education: Courses at CMU include Education Goals, Instruction, and Assessment, E-Learning, and Personalized Online Learning. Also taken classes in UVA&rsquo;s Curry School on students with disabilities and designing educational software. Have experience in the implementation of UDL concepts</li>
-<li>Language: speak/write intermediate level French and basic Hindi</li>
-<li>Music: Sang and wrote arrangements in Ektaal, UVA&rsquo;s Bollywood fusion a capella group</li>
-</ul>
-<div style="text-align:center"><img src ="https://images.collegiatelink.net/clink/images/052f717b-3fe0-45c7-be29-8eb69eb90d950bb1ebf2-d64d-4971-aa8e-7fc1fe125d75.jpeg?preset=med-sq" /></div>
+              <p>Decoding Nutrition Labels is a rule-based cognitive tutor for teaching 6th graders to read nutrition labels on food and glean information about nutrient content. It was built using <a href="http://ctat.pact.cs.cmu.edu/">CTAT</a>, a cognitive tutor authoring tool developed at Carnegie Mellon written in Nools.js.</p>
+<p>We based our design on a worksheet that helped students decode nutrition labels and then confirmed the process with a nutrition expert. We used the worksheet in a Cognitive Task Analysis (CTA) using 6th grade students and others who had never read an American nutrition label (international students) in order to determine their pain points and preferences.</p>
+<p>After our CTA and prototyping, I implemented our tutor using CTAT, which uses Nools, a rule-based engine written in Javascript. I used both the primary CTAT functionality and custom Javascript to implement behavior unique to our tutor, such as the multi-page navigation.</p>
+<p>Students can select a food item from the first page and then progress through the various steps with that item&rsquo;s nutrition label.</p>
+<div class = "labeled-image">
+<img src="/img/nt-foodselection.png" alt="Responsive image">
+<div class = "label">The opening screen, where the student chooses the food item</div>
+</div>
+<p>After the first iteration, we tested it with 6th grade students and compared their results to the paper test. The tutor went through some design changes during testing. For instance, the initial version included a glossary of health terms used throughout the tutor. However, the test subjects didn&rsquo;t use or even ask about the glossary, so we removed it and instead showed relevant information in the sidebar.</p>
+<div class = "labeled-image">
+<div class = "images">
+<div class = "image">
+<img src="/img/nt-glossary.png" alt="Responsive image">
+</div>
+<div class="image">
+<img src="/img/nt-task2.png" alt="Responsive image">
+</div>
+</div>
+<div class = "label">Screen with glossary (first iteration) vs Relevant Information</div>
+</div>
+<p>The tutor included step-specific hints. We also chose to reduce the cognitive load on the students by automatically performing math functions as they progressed.</p>
 
               <hr>
               <div class="related-posts">
