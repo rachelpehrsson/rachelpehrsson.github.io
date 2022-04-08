@@ -7,7 +7,7 @@
     <meta name="author" content="Rachel Pehrsson" />
     <meta name="description" content="Rachel Pehrsson is a front-end programmer with a passion for Edtech.">
     <link rel="shortcut icon" type="image/x-icon" href="https://rachelpehrsson.github.io/img/favicon.ico">
-    <title>About Me</title>
+    <title>Dynamic Quiz</title>
     <meta name="generator" content="Hugo 0.80.0" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="https://rachelpehrsson.github.io/css/main.css" />
@@ -59,12 +59,12 @@
       <div class="container">
         <div class="blog-post">
           <h3>
-            <strong><a href="https://rachelpehrsson.github.io/about/">About Me</a></strong>
+            <strong><a href="https://rachelpehrsson.github.io/projects/dynamicquiz/">Dynamic Quiz</a></strong>
           </h3>
         </div>
         <div class="blog-title">
           <h4>
-          August 9, 2017
+          January 17, 2022
             &nbsp;&nbsp;
             
           </h4>
@@ -72,33 +72,23 @@
         <div class="panel panel-default">
           <div class="panel-body">
             <div class="blogpost">
-              <p>My name is Rachel Pehrsson. I&rsquo;m a front-end programmer currently pursuing my <a href="https://metals.hcii.cmu.edu/">Masters of Educational Technology and Applied Learning Science (METALS)</a> at Carnegie Mellon University in Pittsburgh, PA.  I previously worked at <a href="https://sapiosciences.com">Sapio Sciences LLC</a> in York, PA. In 2018, I graduated from the University of Virginia with degrees in Computer Science and Studio Art. My passions include web development, Edtech, illustration, and making your company&rsquo;s dynamically generated PDFs look very swanky.</p>
-<p>I founded and run a small charity called <a href="https://foodforthefourth.org">Food for the Fourth</a> aimed at increasing food bank donations in summer months.</p>
-<p>In my free time, I enjoy painting, writing, point-and-click adventure games, swing dancing, listening to music, reading comic books, and playing with my cat, Toby. He&rsquo;s the charmer of the household.</p>
-<h3 id="areas-of-experience-in-coding">Areas of experience in coding:</h3>
-<ul>
-<li>Java</li>
-<li>GWT</li>
-<li>HTML</li>
-<li>CSS</li>
-<li>JavaScript</li>
-<li>Nools</li>
-<li>AngularJS</li>
-<li>PHP</li>
-<li>MySQL</li>
-</ul>
-<h3 id="areas-of-experience-in-design">Areas of experience in design</h3>
-<ul>
-<li>Adobe products: Illustrator, Photoshop, Premiere</li>
-<li>Traditional painting and sketching</li>
-</ul>
-<h3 id="other">Other</h3>
-<ul>
-<li>Education: Courses at CMU include Education Goals, Instruction, and Assessment, E-Learning, and Personalized Online Learning. Also taken classes in UVA&rsquo;s Curry School on students with disabilities and designing educational software. Have experience in the implementation of UDL concepts</li>
-<li>Language: speak/write intermediate level French and basic Hindi</li>
-<li>Music: Sang and wrote arrangements in Ektaal, UVA&rsquo;s Bollywood fusion a capella group</li>
-</ul>
-<div style="text-align:center"><img src ="https://images.collegiatelink.net/clink/images/052f717b-3fe0-45c7-be29-8eb69eb90d950bb1ebf2-d64d-4971-aa8e-7fc1fe125d75.jpeg?preset=med-sq" /></div>
+              <p>My Distinguished Major Project at the University of Virginia was a dynamic quiz system that adjusted practice content based on interaction with the student. It addressed a problem within the computer science department at the University of Virginia, as well as other institutions; the department classroom size is scaling, but the number of TA’s is not expanding at the same rate. Therefore, it is important to test whether certain aspects of personalized help can be automated.</p>
+<p>The project began with a literature review that addressed existing theories on adaptive learning and the measuring of mastery. Furthermore, I looked into studies by UVA professors that informed how the content of the instruction should be structured.</p>
+<p>The quiz is an online tool with a series of multiple-choice questions. The system is built using HTML, Javascript, PHP, and MySQL. For the experimental version, students were given extra practice questions of the needed category depending on whether they answered questions wrong or used hints. The following diagram shows how the quiz questions are supplied to the student:</p>
+<div class = "labeled-image">
+<img src="/img/DynamicQuizAlgo.png" alt="Responsive image">
+<div class = "label">How the quiz responds to right/wrong answers</div>
+</div>
+<p>The questions were separated into categories that the students progressed through. They were given a lecture before the practice questions.</p>
+<div class = "labeled-image">
+<img src="/img/quizlayout.png" alt="Responsive image">
+<div class = "label">Quiz Interface</div>
+</div>
+<p>Hint functionality was provided and, as previously mentioned, included in the algorithm to determine student mastery.</p>
+<div class = "labeled-image">
+<img src="/img/quizhints.png" alt="Responsive image">
+<div class = "label">Hints helped students along but counted against them for mastery</div>
+</div>
 
               <hr>
               <div class="related-posts">
